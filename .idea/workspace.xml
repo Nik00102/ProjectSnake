@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25b8432c-0542-4cd8-b085-8997adc3e9b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Snake.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/SnakeGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/engine/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/engine/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/engine/GameScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/engine/Key.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/SnakeGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/engine/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/engine/Game$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/engine/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/engine/GameScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/project/engine/Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/screen.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BwGinGMzAqMVEDtT7grQd3QKPF" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nik\Desktop\TestJava\DownFromGit\Project_Snake\src\main" />
+      <recent name="C:\Users\Nik\Desktop\TestJava\DownFromGit\Project_Snake\src\main\resources" />
+      <recent name="C:\Users\Nik\Desktop\TestJava\DownFromGit\Project_Snake\src\main\engine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nik\Desktop\TestJava\DownFromGit\Project_Snake\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SnakeGame" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.SnakeGame" />
+      <module name="Project_Snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25b8432c-0542-4cd8-b085-8997adc3e9b2" name="Changes" comment="" />
+      <created>1657809868838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657809868838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
