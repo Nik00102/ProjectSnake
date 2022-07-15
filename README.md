@@ -12,6 +12,7 @@
 
 Запуск игры:
 1. Скачайте файлы на жесткий диск.
-2. Запустите IntelliJ IDEA и создайте новый файл, используя GIT (File -> New -> Project from Version Control...)
-3. Ссылка для скачивания https://github.com/Nik00102/Project_Snake.git
-4. Скомпилируйте файл SnakeGame.java
+2. Запустите IntelliJ IDEA и создайте новый файл, используя GIT (File -> New -> Project from Version Control...).
+3. Ссылка для скачивания https://github.com/Nik00102/ProjectSnake.git .
+4. Отметьте папку src Sources (File -> Project Structure -> Modules).
+5. Скомпилируйте файл SnakeGame.java.
