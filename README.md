@@ -11,8 +11,7 @@
 8. Игра оканчивается проигрышем, если касается сама себя или края поля.
 
 Запуск игры:
-1. Скачайте файлы на жесткий диск.
-2. Запустите IntelliJ IDEA и создайте новый файл, используя GIT (File -> New -> Project from Version Control...).
-3. Ссылка для скачивания https://github.com/Nik00102/ProjectSnake.git .
-4. Отметьте папку src Sources (File -> Project Structure -> Modules).
-5. Скомпилируйте файл SnakeGame.java.
+1. Запустите IntelliJ IDEA и создайте новый файл, используя GIT (File -> New -> Project from Version Control...).
+2. Ссылка для скачивания https://github.com/Nik00102/ProjectSnake.git .
+3. Отметьте папку src Sources (File -> Project Structure -> Modules).
+4. Скомпилируйте файл SnakeGame.java.
